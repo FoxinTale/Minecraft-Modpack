@@ -2,7 +2,7 @@
  Repository for keeping track of modpack updates for a modded Minecraft server.
 
 
-## Additional mods that were removed for space saving in the release, but will be in the pack.
+#### Additional mods that were removed for space saving in the release, but will be in the pack.
 - Aether Legacy
 - Applied Energistics 2
 - Biomes O Plenty

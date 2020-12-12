@@ -41,6 +41,8 @@ Mods marked with a \* are mods that are found in the Modpack-bigmods repository,
 - Thaumcraft*
 - Tinker's Construct*
 - Ultimate Unicorn Mod*
+- Weather2 (Localized weather and advanced stormfronts)*
+- Witchery*
 
 
 ### Utility Mods
@@ -56,8 +58,6 @@ Mods marked with a \* are mods that are found in the Modpack-bigmods repository,
 - SkinPort
 - VeinMiner
 - What am I looking at (WALIA)
-- Weather2 (Localized weather and advanced stormfronts)*
-- Witchery*
 
 
 ### Optional 

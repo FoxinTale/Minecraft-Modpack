@@ -6,7 +6,7 @@ APIs & Libraries are mods that are just there for other mods needed to work.
 They don't do much else other than add to the mod count.  And finally, Utility mods are mods that are small, but are really useful.
 Mods marked with a \* are mods that are found in the Modpack-bigmods repository, if you are looking for the files. Now, onto it.
 
-#### Game version: 1.7.10
+## Game version: 1.7.10
 
 ### Main Mods
 

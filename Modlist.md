@@ -70,7 +70,7 @@ Mods marked with a \* are mods that are found in the Modpack-bigmods repository,
 - Sound Filters
 
 
-### APIs & Libraries'
+### APIs & Libraries
 - Bspkrs Core
 - CodeChickenCore
 - CodeChickenLib

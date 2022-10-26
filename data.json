@@ -1,0 +1,16 @@
+{
+	"currentVersion": "1.0.0",
+	"checksums": [{
+		"modpack": "d86c24729a17502a8d6020a25fca3f0b"
+	}],
+
+
+	"modList": [{
+		"mods": "[1.7.10]Better_Furnaces_V4.3.jar"
+	}],
+
+
+	"toDelete": [ {
+		"remove": "dummy.jar"
+	}]
+}

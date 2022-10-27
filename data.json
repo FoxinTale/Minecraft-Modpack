@@ -18,7 +18,7 @@
 	}],
 
 
-	"toDelete": [{
+	"toRemove": [{
 		"remove": "dummy.jar"
 	}]
 }
